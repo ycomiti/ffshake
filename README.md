@@ -75,7 +75,7 @@ Apply shake to an image (10s default duration):
 | `--speed-rot N`            | Rotation speed (period)                                    |
 | `--chroma-cb N`            | Chromatic aberration Cb shift                              |
 | `--chroma-cr N`            | Chromatic aberration Cr shift                              |
-| `--overscan WxH`           | Overscan resolution                                        |
+| `--overscan WxH`           | Overscan resolution (default: `3000x1700`)                 |
 | `--args ARG...`            | Additional FFmpeg arguments passed directly to the command |
 
 ## 📁 Example Commands
