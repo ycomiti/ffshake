@@ -1,8 +1,6 @@
 # ffshake
-A script to use ffmpeg to generate a shake similar to S_Shake effect in Vegas Pro.
-
 **ffshake** is a Bash script that generates a **camera shake / wiggle effect** on an image or video using FFmpeg.  
-It applies horizontal/vertical wiggle, optional rotation, and chromatic aberration effects for animated shake videos.
+It applies horizontal/vertical wiggle, optional rotation, and chromatic aberration effects for animated shake videos.  
 This project was born out of the absence of this effect in open-source video editors such as Shotcut and Kdenlive, which do not currently plan to implement it.
 
 ## 🚀 Features
